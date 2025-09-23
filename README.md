@@ -127,6 +127,23 @@ The dataset contains match-level information from FIFA World Cups:
 - `FIFA_WorldCup_Article.pdf` — Data journalism article  
 - `README.md` — Project documentation  
 
+---
+
+## 💡 Applications
+- **FIFA / Organizers** – insights into how formats affect goal scoring  
+- **Media / Broadcasters** – narratives challenging modern football myths  
+- **Football Analytics** – quantitative evidence of tactical evolution  
+- **Data Journalism** – counter-intuitive stories backed by statistics  
+
+---
+
+## 📊 Statistical Summary
+- **Matches analyzed:** 852 complete records  
+- **Time period:** 1930–2014 (84 years)  
+- **Countries represented:** 50+  
+- **Peak tournament:** 1954 (5.38 goals/match)  
+- **Overall average:** 2.83 goals/match  
+- **Most active team:** Brazil (108 appearances)  
 
 ---
 
