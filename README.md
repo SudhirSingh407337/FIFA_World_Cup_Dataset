@@ -121,11 +121,12 @@ The dataset contains match-level information from FIFA World Cups:
 
 ## 📁 File Structure
 
-├── fifa_worldcup_analysis.R # Main analysis script
-├── WorldCupMatches.csv # Source dataset (from Kaggle)
-├── MyWork_documentation.pdf # Methodology & findings
-├── FIFA_WorldCup_Article.pdf # Data journalism article
-└── README.md # Project documentation
+- `fifa_worldcup_analysis.R` — Main analysis script  
+- `WorldCupMatches.csv` — Source dataset (from Kaggle)  
+- `MyWork_documentation.pdf` — Methodology & findings  
+- `FIFA_WorldCup_Article.pdf` — Data journalism article  
+- `README.md` — Project documentation  
+
 
 ---
 
