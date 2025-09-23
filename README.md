@@ -2,7 +2,6 @@
 
 ![R](https://img.shields.io/badge/R-4.0%2B-blue?logo=r&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This project analyzes **FIFA World Cup match data (1930–2014)** to uncover hidden patterns in scoring trends, team performance, and tournament evolution — using only **R101-approved statistical functions**.  
