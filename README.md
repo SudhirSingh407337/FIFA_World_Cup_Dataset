@@ -14,7 +14,7 @@ The goal is to provide counter-intuitive insights for **data journalism** and fo
 - **Scoring Trend Analysis** – evolution of goals per match from the 1930s to the modern era  
 - **Team Dominance Study** – nations with the most World Cup match appearances  
 - **Era Comparison** – scoring patterns across different football periods  
-- **Objective** – reveal surprising insights into World Cup history  
+- **Objective** – revealing surprising insights into World Cup history  
 
 ---
 
