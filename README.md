@@ -4,7 +4,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-This project analyzes **FIFA World Cup match data (1930–2014)** to uncover hidden patterns in scoring trends, team performance, and tournament evolution — using only **R101-approved statistical functions**.  
+This project analyzes the **FIFA World Cup match data (1930–2014)** to uncover hidden patterns in scoring trends, team performance, and tournament evolution — using only **R101-approved statistical functions**.  
 The goal is to provide counter-intuitive insights for **data journalism** and football analytics.
 
 ---
